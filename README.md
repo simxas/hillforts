@@ -19,4 +19,6 @@ Python 3 and run it with `python3 gui.py`.
 Please note that I added my virtual env Requirements.txt file, but in order to use web scrapping script you need to
 install additional software for dryscrape. Here is the installation requirements for [dryscrape](http://dryscrape.readthedocs.io/en/latest/installation.html)
 
+Also I'm using Python 3.5.
+
 Also all the generated html files are sitting inside htmls directory :)
